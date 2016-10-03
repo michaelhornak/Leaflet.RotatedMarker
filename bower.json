@@ -1,0 +1,19 @@
+
+    "name": "Leaflet.RotatedMarker",
+    "version": "0.1.1",
+    "homepage": "https://github.com/bbecquet/Leaflet.RotatedMarker",
+    "authors": [
+        "Benjamin Becquet"
+    ],
+    "description": "Marker rotate plugin for Leaflet.",
+    "main": [
+        "leaflet.rotatedMarker.js"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*"
+    ],
+    "dependencies": {
+        "leaflet": ">= 1.0.0"
+    }
+}
